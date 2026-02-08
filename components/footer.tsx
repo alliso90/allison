@@ -28,7 +28,7 @@ const Footer = () => {
                 <div className="flex items-center space-x-6">
                     <motion.a
                         whileHover={{ y: -3, scale: 1.1 }}
-                        href="https://github.com/shaqdeff" // Assuming GitHub link, update if known
+                        href="https://github.com/alliso90" // Assuming GitHub link, update if known
                         target="_blank"
                         rel="noopener noreferrer"
                         className="p-3 bg-white/5 rounded-full hover:bg-white/10 transition-colors duration-300"

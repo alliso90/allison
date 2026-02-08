@@ -141,7 +141,7 @@ const Hero = () => {
                   src={shaq}
                   alt="Egba Allison"
                   fill
-                  className="object-cover object-center opacity-95"
+                  className="object-cover object-center opacity-95 grayscale"
                   sizes="(max-width: 768px) 45vw, 40vw"
                   priority
                   quality={100}
