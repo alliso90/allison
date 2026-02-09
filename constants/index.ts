@@ -133,8 +133,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Topmax',
+    description: 'An e-commerce website for selling furniture.',
     tags: [
       {
         name: 'react',
@@ -150,12 +150,12 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    repo: 'https://github.com/alliso90/topmax',
+    demo: 'https://topmax.vercel.app',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Gamify',
     description:
       'A leaderboard list app that displays scores submitted by different players.',
     tags: [
@@ -173,13 +173,13 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    repo: 'https://github.com/alliso90/gamify',
+    demo: '',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'Intmacy-camp',
+    description: 'A webapp for managing camp activities and events.',
     tags: [
       {
         name: 'nextjs',
@@ -195,12 +195,12 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    repo: 'https://github.com/alliso90/intmacy-camp',
+    demo: 'https://intimacy-camp.vercel.app/',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
+    name: 'attendance-app',
     description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
     tags: [
       {
@@ -217,14 +217,14 @@ const projects = [
       },
     ],
     image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    repo: 'https://github.com/alliso90/attendance',
+    demo: 'https://attendance-app-sage.vercel.app/',
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'Todo app',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'A todo app that allows users to add, edit, delete, and mark tasks as complete.',
     tags: [
       {
         name: 'nextjs',
@@ -240,8 +240,8 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    repo: 'https://github.com/alliso90/todoapp',
+    demo: 'https://alliso90.github.io/todoapp/',
   },
 ];
 
