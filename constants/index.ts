@@ -112,7 +112,7 @@ const experiences = [
     company_name: 'Office of Senator Adekunbo Abiru',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - ti date',
+    date: 'Mar 2022 - til date',
   },
   // {
   //   title: 'Junior Software Engineer',
