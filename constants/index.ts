@@ -107,13 +107,13 @@ const experiences = [
     iconBg: '#333333',
     date: 'Nov 2023 - May 2024',
   },
-  // {
-  //   title: 'Mentor (Volunteer)',
-  //   company_name: 'Microverse',
-  //   icon: microverse,
-  //   iconBg: '#333333',
-  //   date: 'Mar 2022 - May 2022',
-  // },
+  {
+    title: 'Office assistant and Store Manager',
+    company_name: 'Office of Senator Adekunbo Abiru',
+    icon: microverse,
+    iconBg: '#333333',
+    date: 'Mar 2022 - ti date',
+  },
   // {
   //   title: 'Junior Software Engineer',
   //   company_name: 'Kelhel',
